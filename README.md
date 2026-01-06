@@ -5,5 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pkoooo&theme=tokyonight" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pkoooo)](https://git.io/streak-stats)
+
 </div>
