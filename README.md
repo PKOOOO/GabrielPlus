@@ -1,5 +1,7 @@
 # <div align="center">👋 Hello, I'm Gabriel Plus</div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%26+Frontend+Specialist;Network+Administrator;DevOps+Engineer;AI+Platform+Builder" alt="Typing SVG" />
 </div>
